@@ -1,0 +1,31 @@
+Brand,Model,Price,RAM,Storage,Battery,Camera,Rating,Source,Price_Source2
+Samsung,Galaxy M35 5G,26999,6,128,6000,50,3,Amazon,30999
+Samsung,Galaxy A36 5G,32999,8,128,5000,50,4.2,Sample,31999
+Samsung,Galaxy S24 FE,54999,8,128,4700,50,4.3,Sample,52999
+Samsung,Galaxy M16 5G,14999,6,128,5000,50,4.1,Sample,14499
+Samsung,Galaxy A26 5G,24999,8,128,5000,50,4.2,Sample,23999
+Xiaomi,Redmi Note 14 5G,17999,8,128,5110,50,4.2,Sample,16999
+Xiaomi,Redmi Note 14 Pro 5G,24999,8,128,5500,50,4.3,Sample,23999
+Xiaomi,Redmi Note 14 Pro+ 5G,30999,8,256,6200,50,4.3,Sample,29999
+Xiaomi,Redmi 14C,9999,4,128,5160,50,4,Sample,9499
+Xiaomi,Xiaomi 14 Civi,39999,8,256,4700,50,4.2,Sample,38999
+Realme,Realme 14 Pro 5G,24999,8,128,6000,50,4.2,Sample,23999
+Realme,Realme 14 Pro+ 5G,29999,8,256,6000,50,4.3,Sample,28999
+Realme,Realme P3 5G,16999,8,128,6000,50,4.2,Sample,15999
+Realme,Realme Narzo 70 Pro 5G,18999,8,128,5000,50,4.1,Sample,17999
+Realme,Realme 13+ 5G,19999,8,128,5000,50,4.2,Sample,18999
+Vivo,T3 5G,19999,8,128,5000,50,4.2,Sample,18999
+Vivo,T3x 5G,14999,6,128,6000,50,4.1,Sample,13999
+Vivo,V40e,28999,8,128,5500,50,4.2,Sample,27999
+Vivo,Y200 5G,21999,8,128,4800,64,4.1,Sample,20999
+Vivo,V30 5G,33999,8,128,5000,50,4.3,Sample,32999
+OnePlus,Nord CE4,24999,8,128,5500,50,4.3,Sample,23999
+OnePlus,Nord CE4 Lite 5G,19999,8,128,5500,50,4.2,Sample,18999
+OnePlus,Nord 4,29999,8,128,5500,50,4.4,Sample,28999
+OnePlus,12R,39999,8,128,5500,50,4.4,Sample,38999
+OnePlus,13R,42999,12,256,6000,50,4.4,Sample,41999
+Apple,iPhone 15,59900,6,128,3349,48,4.5,Sample,58900
+Apple,iPhone 15 Plus,69900,6,128,4383,48,4.5,Sample,68900
+Apple,iPhone 16,79900,8,128,3561,48,4.5,Sample,78900
+Apple,iPhone 16 Plus,89900,8,128,4674,48,4.5,Sample,88900
+Apple,iPhone 16 Pro,119900,8,128,3582,48,4.6,Sample,118900
